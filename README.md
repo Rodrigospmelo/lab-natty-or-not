@@ -20,13 +20,13 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Fast Subtitles with Translation
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Traduzir conteúdos para legendas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+elevenlabs
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
